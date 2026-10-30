@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.vercel/
+dist/
+.env
+.env.*
+!.env.example
+assets-almawahyu/
+assets-luxury/
+/assets-dummy/
+.DS_Store
+Thumbs.db

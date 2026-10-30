@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#d6c5b7"/><stop offset="1" stop-color="#8e7366"/></linearGradient>
+    <linearGradient id="dress" x2="0" y2="1"><stop stop-color="#fff9f1"/><stop offset="1" stop-color="#ead9ce"/></linearGradient>
+    <linearGradient id="suit" x2="0" y2="1"><stop stop-color="#76665d"/><stop offset="1" stop-color="#3d342f"/></linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M183 900V405c0-229 187-415 417-415s417 186 417 415v495" fill="none" stroke="#f5e9dc" stroke-width="18" opacity=".68"/>
+  <path d="M232 900V412c0-203 165-368 368-368s368 165 368 368v488" fill="#c8ad9c" opacity=".34"/>
+  <path d="M0 755c207-53 406-74 600-55s400 18 600-48v248H0z" fill="#67554b" opacity=".43"/>
+  <ellipse cx="450" cy="316" rx="77" ry="92" fill="#bd8d78"/>
+  <path d="M370 322c-20-113 18-182 90-182 75 0 115 70 88 177-22-21-43-47-56-85-24 43-62 72-122 90z" fill="#46372f"/>
+  <path d="M313 900c16-220 41-363 96-427 28-32 56-45 96-45s74 14 100 48c50 65 77 210 86 424z" fill="url(#dress)"/>
+  <path d="M386 493c36 21 76 31 119 31 37 0 69-8 97-24" fill="none" stroke="#d7b9aa" stroke-width="7"/>
+  <ellipse cx="718" cy="322" rx="76" ry="91" fill="#c6937c"/>
+  <path d="M643 313c-4-95 21-160 84-164 58-4 96 47 90 136-38-9-67-40-84-76-19 43-48 78-90 104z" fill="#342f2d"/>
+  <path d="M606 900c8-215 33-359 82-422 29-37 67-54 112-54 48 0 83 19 110 56 47 64 68 206 74 420z" fill="url(#suit)"/>
+  <path d="M710 434l28 43 28-43-28-27z" fill="#f8eee5"/>
+  <path d="M720 480l18 30 18-30-18-13z" fill="#bb7771"/>
+  <circle cx="600" cy="124" r="5" fill="#f8ede3"/><circle cx="580" cy="124" r="2" fill="#f8ede3"/><circle cx="620" cy="124" r="2" fill="#f8ede3"/>
+</svg>
